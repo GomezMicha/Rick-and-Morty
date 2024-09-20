@@ -1,0 +1,25 @@
+.main-card-text-wrapper {
+    margin-left: 30px;
+    width: 865px;
+    height: 74px;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    justify-content: center;
+    border-top: 1px solid #dee2ea;
+    
+
+}
+
+.main-card-text-wrapper h3{
+    margin: 0;
+    font-family: Greycliff CF Figma 001;
+    font-size: 16px;
+    font-weight: 600;  
+}
+
+.main-card-text-wrapper p{
+    display: block;
+    margin: 0;
+    color: #6B7280;
+}

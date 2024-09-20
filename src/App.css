@@ -1,0 +1,18 @@
+
+#root {
+  max-width: 1440px;
+  width: 1440px;
+  height: 900px;
+  margin: 0 auto;
+  text-align: center;
+  background-color:white;
+  display: flex;
+  flex-direction: wrap;
+  flex-direction: row;
+}
+
+.App {
+  display: flex;
+  flex-direction: wrap;
+  flex-direction: row;
+}
