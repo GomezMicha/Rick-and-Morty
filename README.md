@@ -22,7 +22,6 @@
 
 <!-- Add Image -->
 <p align="center">
-<img src="public/images/sprtshop.jpg" alt="SprtShop" style="max-width: 100%;"/>
 </p>
 <!-- Add Image -->
 
